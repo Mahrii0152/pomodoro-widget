@@ -10,7 +10,9 @@ A cute and minimal Pomodoro timer to keep your study sessions cozy and productiv
 
 ### How to Use
 - Just open the link in your browser.  
-- You can embed it in Notion using **/embed** and pasting the link. 
+- You can embed it in Notion using **/embed** and pasting the link.
+
+👉 [Open Pomodoro](https://mahrii0152.github.io/pomodoro-widget/)
 
 ---
 Made with love ♡
